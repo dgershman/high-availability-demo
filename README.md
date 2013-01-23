@@ -19,5 +19,6 @@ redis-server sentinel.conf --sentinel
 ```
 
 8. Monitoring/Failover Demo
-9. 
+9. Notification Demo
+10. [https://github.com/radius314/high-availability-demo/](https://github.com/radius314/high-availability-demo/)
 
