@@ -10,6 +10,14 @@ REDIS High Availability with Sentinel
 
 ![Unstable Mutation](http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=941&type=card)
 
+5. Challenges
+6. Sentinel (Monitoring - Notification - Auto Failover)
+7. Starting Sentinel 
 
+```
+redis-server sentinel.conf --sentinel
+```
 
+8. Monitoring/Failover Demo
+9. 
 
