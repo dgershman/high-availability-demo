@@ -1,6 +1,6 @@
 high-availability-demo
 ======================
 
-# Danny Gershman Principal Engineer @ Cinchcast
-## @dannygnj
+## Danny Gershman Principal Engineer @ Cinchcast
+### @dannygnj
 
